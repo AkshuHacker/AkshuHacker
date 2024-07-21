@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkshuHacker
 - 👀 I’m interested in Astronomy and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R
 - 📫 How to reach me @ak_sshhh on instagram, @Akshyta Dhir on LinkedIn
-- ⚡ Fun fact: I am 18  
+- ⚡ Fun fact: I am 18 
 
 <!---
 AkshuHacker/AkshuHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
